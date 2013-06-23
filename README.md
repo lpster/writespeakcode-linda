@@ -15,7 +15,7 @@ What if you knew the cure for cancer? Would you speak up?
 - Resource: being helpful and useful to somebody
 - Expert: a term of power
 
-The risk with not speaking up when you're feeling insecure about not being the "expert" on a topic is selfishness. 
+It's okay to not call yourself an expert whenever you introduce yourself to strangers, but don't let the thinking that "I'm not an expert" prevent you from contributing to the discussion. Keeping your knowledge to yourself -- no matter how "unexpert" you are -- can be selfishness.  
 
 > "Because I don't know everything, nobody gets to know what I know."
 
