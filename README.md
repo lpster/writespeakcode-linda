@@ -9,7 +9,7 @@ http://www.writespeakcode.com/
 http://www.theopedproject.org/
 
 What if you knew the cure for cancer? Would you speak up?
-- Yes, if the situation is about other helping people
+- Yes, if the issue is about helping other people
 
 ###RESOURCE vs. EXPERT
 - Resource: being helpful and useful to somebody
