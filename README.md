@@ -1,9 +1,9 @@
-Summary: This README hosts a compilation of my notes at the Write-Speak-Code conference (June 20th-22nd, 2013).
-
-##Write-Speak-Code
+#Write-Speak-Code
 @writespeakcode
 hashtag: #writespeakcode
 http://www.writespeakcode.com/
+
+This README hosts a compilation of my notes at the Write-Speak-Code conference (June 20th-22nd, 2013).
 
 ##Notes from the Op-Ed Project
 http://www.theopedproject.org/
