@@ -2,7 +2,7 @@ Summary: This README hosts a compilation of my notes at the Write-Speak-Code con
 
 ##Write-Speak-Code
 @writespeakcode
-#writespeakcode
+hashtag: #writespeakcode
 http://www.writespeakcode.com/
 
 ##Notes from the Op-Ed Project
@@ -41,11 +41,10 @@ Answer the following questions:
 - Mind the power of words -- use exactly the words that you mean. 
 
 sheetaluk@spotify.com came to speak to us about working at Spotify, and gave us advice, such as:
-- practice
 - do not be self-critical in an interview
 - don't be afraid to pursue a job posting because you "don't meet all the requirements." Many of them are optional.
 
-=====
+##Types of Licenses
 Public domain books include Jane Eyre, Huckleberry Finn, Pride and Prejudice, Dracula, The Picture of Dorian Gray, Wuthering Heights, etc. are examples of books that are in the public domain. They're free to take and make. 
 
 *FreeBSD or MIT License* - this is the most popular one. "Do whatever you want but don't call me about it."
@@ -56,7 +55,7 @@ Public domain books include Jane Eyre, Huckleberry Finn, Pride and Prejudice, Dr
 
 *Dual License* - If you're using it for open source, that's fine, but you have to keep it open. If you're using it for commercial use, then you have to pay. 
 
-***Other Terms
+###Other Terms
 *Copyleft* - a play on copyright -- means that the work is automatically open and must be shared. Derivatives welcome.
 *Commercial* - Others can't make money on it
 *Reciprocity* - Improvements must be shared
@@ -99,7 +98,7 @@ Places you can find projects:
 - Git Rec
 
 
-###Open Source Security - how to get lots of security for a low, low price
+##Open Source Security - how to get lots of security for a low, low price
 - Rachel Engel
 Open source projects - are done by volunteers
 SSL. Using HTTPS.
@@ -146,7 +145,7 @@ How do you report security bugs to the community?
 - Only test out bugs on software you write yourself.
 - Microsoft and Google will pay you, but other big companies will sue you.
 
-###Feminism and Open Source
+##Feminism and Open Source
 Corey Latislaw @corey_latislaw
 Pam Selle @pamasaur , thewebivore.com, front-end developer at Paperless Post
 
